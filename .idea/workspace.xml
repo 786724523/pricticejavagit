@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60af1425-b8a5-46b1-88fe-94c6235cbe60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/CycleWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/CycleWait1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/FutureTaskDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/MyCallable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/RunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/ShowMeBug.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/ThreadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/ThreadPoolDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/ThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/thread/WaitSleepDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pers/ly/typestring/StringOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pers/ly/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pers/ly/typestring/StringOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pers/ly/typestring/StringOne.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,12 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pers/ly/typestring/StringOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#99#100#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="175">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -292,17 +273,26 @@
       <workItem from="1582676495265" duration="9279000" />
       <workItem from="1582714276556" duration="9639000" />
       <workItem from="1583593957776" duration="2719000" />
-      <workItem from="1583645799125" duration="679000" />
+      <workItem from="1583645799125" duration="788000" />
     </task>
+    <task id="LOCAL-00001" summary="全部上传到本地库">
+      <created>1583646552314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583646552314</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45696000" />
+    <option name="totallyTimeSpent" value="45805000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20442359" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20442359" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -319,7 +309,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -335,6 +325,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="全部上传到本地库" />
+    <option name="LAST_COMMIT_MESSAGE" value="全部上传到本地库" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -549,12 +543,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pers/ly/typestring/StringOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#99#100#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="175">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
         </state>
       </provider>
     </entry>
