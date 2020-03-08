@@ -4,7 +4,7 @@ package pers.ly.typestring;
 
 public class StringOne {
     public static void main(String[] args) {
-        System.out.println("我修改了");
+        System.out.println("我也修改了，我是主的");
     }
 
     public static String change(String s ){
